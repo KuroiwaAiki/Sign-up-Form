@@ -20,7 +20,7 @@ body {
 .wrapper {
     display: flex;
     align-items: center;
-    padding: 11%;
+    padding: 20% 11% 11%;
     width: 100%;
 }
 
