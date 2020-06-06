@@ -1,4 +1,4 @@
-![demo](https://kuroiwaaiki.github.io/Sign-up-Form/)
+demo https://kuroiwaaiki.github.io/Sign-up-Form/
 
 Responsive web design. Change window size to see responsive changes.
 
